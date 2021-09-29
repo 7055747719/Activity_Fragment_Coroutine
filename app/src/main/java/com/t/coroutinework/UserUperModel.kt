@@ -1,5 +1,5 @@
 package com.t.coroutinework
 
-data class UserUserModel(val data: List<UserModel>) {
+data class UserUperModel(val data: List<UserModel>) {
 
 }

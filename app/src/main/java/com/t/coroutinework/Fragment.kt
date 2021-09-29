@@ -9,8 +9,8 @@ class Fragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        viewLifecycleOwner.lifecycleScope.launch {
+    viewLifecycleOwner.lifecycleScope.launch {
 
-        }
+    }
     }
 }
